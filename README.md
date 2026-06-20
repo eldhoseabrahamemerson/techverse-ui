@@ -12,7 +12,7 @@ https://eldhoseabrahamemerson.github.io/techverse-ui/
 
 ## 📸 Screenshot
 
-![Techverse Website Preview](./images/screenshot.png)
+![Techverse Website Preview](./images/Screenshot.png)
 
 ---
 
