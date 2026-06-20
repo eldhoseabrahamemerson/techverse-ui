@@ -6,7 +6,7 @@ A responsive frontend template for a technology learning platform, built with pu
 
 ## 🌐 Live Demo
 
-> _Deploy on GitHub Pages or Vercel to get a live link and paste it here._
+https://eldhoseabrahamemerson.github.io/techverse-ui/
 
 ---
 
